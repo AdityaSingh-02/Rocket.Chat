@@ -627,6 +627,8 @@ const RoomBody = (): ReactElement => {
 									</MessageListErrorBoundary>
 								</div>
 							</div>
+
+							
 							<ComposerContainer
 								rid={room._id}
 								subscription={subscription}
